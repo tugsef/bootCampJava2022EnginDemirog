@@ -1,11 +1,10 @@
-# [Kodlama.io Java 2022 BootCamp](https://www.kodlama.io/)
-
-Repository Eğitmen (Linkedin)[Engin Demirog tarafından](https://www.linkedin.com/in/engindemirog/) (Youtube)[Youtube](https://www.youtube.com/@engindemirog2946) üzerinden gerçekleştirilen canlı eğitim , canlı yayından sonra ödevlerin verildiği [kodlama.io](https://www.kodlama.io/) , ders esnasında ve sonrasında [discord](https://discord.gg/Q9bN943q) yardımlaşma grubundan yararlanılarak oluşturulmuştur.
-
-> İletişim Bilgilerim
-
-[Patika.dev](https://app.patika.dev/sefad) 
+# [(2022) Yazılım Geliştirici Yetiştirme Kampı - JAVA](https://youtube.com/playlist?list=PLqG356ExoxZUGztzAxqIWkkTq8JVa-o3X) 
 
 
-[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfSkpaHNJQUyUX%2FAggFutbQ%3D%3D)
+[Eğitmen Engin Demirog](https://www.linkedin.com/in/engindemirog/) tarafından ücretsiz olarak düzelenen youtube hafta özetini kapsar. 
+### **Güncellemeler**
+- 2602.2023 [(2022) Java Yazılım Geliştirici Yetiştirme Kampı 5: Spring Boot 2](https://www.youtube.com/watch?v=7Qqb4IyULmo&list=PLqG356ExoxZUGztzAxqIWkkTq8JVa-o3X&index=5) dersinden sonra güncellenmiştir.
+>İletişim Bilgilerim
 
+
+[linkedin](linkedin.com/in/sefa-demirtaş-86b473230)
